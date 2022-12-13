@@ -1,0 +1,25 @@
+
+#test-button {
+  /* font-family: arial; */
+  margin: 0;
+}
+#test-button:hover {
+  color: #fcedfc !important;
+}
+.css-input {
+  padding: 2px;
+  font-size: 22px;
+  border-width: 1px;
+  border-color: #cccccc;
+  background-color: #ffffff;
+  color: #0e0101;
+  border-style: outset;
+  border-radius: 13px;
+  box-shadow: -1px 1px 4px rgba(167, 84, 84, 0.56);
+  text-shadow: -48px 0px 0px rgba(66, 66, 66, 0.61);
+  padding: 9px 12px;
+}
+
+.css-input:focus {
+  outline: none;
+}
